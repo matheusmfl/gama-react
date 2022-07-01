@@ -1,4 +1,23 @@
 header{
     color: white;
-    background-color: red;
+    background-color: orange;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px
+}
+
+nav a{
+
+        text-decoration: none;
+        color: purple;
+        cursor: pointer;
+        margin-left: 8px;
+        font-size: 18px;
+}
+
+nav a:hover{
+    color: white;
+    border-bottom: 1px solid white;
 }

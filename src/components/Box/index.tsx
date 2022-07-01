@@ -6,5 +6,5 @@ interface propsBox{
 
 }
 export default function Box(props:propsBox){
-    return(<section className={`box ${props.background}`}>{props.children} </section>)
+    return(<section className={`box ${props.background}`}> {props.children} {props.children} </section>)
 }

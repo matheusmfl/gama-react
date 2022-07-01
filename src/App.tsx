@@ -8,7 +8,9 @@ function App() {
       <Header />
       <main>
       <Box background='claro'>
-         <h1>Teste Child</h1></Box>
+         <h1>Educação financeira é tudo de bom!</h1>
+         <p>Clicke em saiba mais e comece a ficar rico!</p>
+         </Box>
       <Box background='escuro'>
          <h2>Teste Child2</h2></Box>
       </main>

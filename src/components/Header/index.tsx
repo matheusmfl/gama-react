@@ -6,7 +6,7 @@ function Header() {
     return (
     <header>
 
-        <h1>Header do site</h1>
+        <h1>DinDin</h1>
         <nav>
             <Link texto ="Curso" redirect='./cursos'/>
             <Link texto="Ganhe dinheiros" redirect='#'/>
